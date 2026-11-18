@@ -72,4 +72,4 @@ The build output will be generated in the `dist/` directory.
 
 ## Live Demo
 
-[View Live Demo](https://konradmad.github.io/electronics-storefront/)
+[View Live Demo](https://konrad-pawelczuk-dev.github.io/electronics-storefront/)
